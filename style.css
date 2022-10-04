@@ -1,0 +1,42 @@
+*{
+    background-color: lightgray;
+}
+
+h1 {
+  padding: 5px;
+  margin: 0;  
+  font-style: italic ; 
+}
+
+.container {
+    text-align: center;
+}
+
+#screen {
+    background-color: lightblue;
+    margin-bottom: 5px;
+    height: 70px;
+    width: 400px;
+    border-color: blue ;
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+
+table {
+    margin : auto;
+    padding: 0;
+          
+}
+
+button{
+width: 100px;
+height: 70px;
+border-radius: 10px;
+font-size: 30px;
+}
+
+.g{
+    color: royalblue;
+}
+
